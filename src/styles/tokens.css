@@ -18,6 +18,7 @@
   --globe-dot: #f4f1ec;
   --globe-atmosphere: #8fb3ff;
   --globe-marker: #b89b6a;
+  --globe-street: #f4f1ec;
 
   /* Type scale — fluid, 360px → 1600px viewport */
   --text-xs: clamp(0.6875rem, 0.66rem + 0.1vw, 0.75rem);

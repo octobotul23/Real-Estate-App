@@ -1,0 +1,40 @@
+{
+  "meta": {
+    "title": "One United Properties — București",
+    "description": "Dezvoltări rezidențiale și mixte sustenabile în București."
+  },
+  "nav": {
+    "projects": "Proiecte",
+    "map": "Hartă",
+    "about": "Despre",
+    "contact": "Contact",
+    "language": "English"
+  },
+  "hero": {
+    "eyebrow": "One United Properties",
+    "title": "București",
+    "coordinates": "44.43° N · 26.10° E",
+    "destination": "Acolo unde orașul se reconstruiește, cartier cu cartier",
+    "scroll": "Derulează pentru a explora"
+  },
+  "map": {
+    "hint": "Alege un proiect",
+    "all": "Toate",
+    "close": "Închide",
+    "viewProject": "Vezi proiectul",
+    "status": {
+      "delivered": "Finalizat",
+      "construction": "În construcție",
+      "launching": "În lansare"
+    }
+  },
+  "project": {
+    "units": "Locuințe",
+    "delivery": "Finalizare",
+    "neighbourhood": "Cartier",
+    "status": "Stadiu",
+    "amenities": "Facilități",
+    "sustainability": "Sustenabilitate",
+    "enquire": "Solicită detalii"
+  }
+}

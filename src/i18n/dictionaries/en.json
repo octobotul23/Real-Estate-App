@@ -1,0 +1,40 @@
+{
+  "meta": {
+    "title": "One United Properties — Bucharest",
+    "description": "Sustainable residential and mixed-use developments across Bucharest."
+  },
+  "nav": {
+    "projects": "Projects",
+    "map": "Map",
+    "about": "About",
+    "contact": "Contact",
+    "language": "Limba română"
+  },
+  "hero": {
+    "eyebrow": "One United Properties",
+    "title": "Bucharest",
+    "coordinates": "44.43° N · 26.10° E",
+    "destination": "Where the city is being rebuilt, one neighbourhood at a time",
+    "scroll": "Scroll to explore"
+  },
+  "map": {
+    "hint": "Select a project",
+    "all": "All",
+    "close": "Close",
+    "viewProject": "View project",
+    "status": {
+      "delivered": "Delivered",
+      "construction": "Under construction",
+      "launching": "Launching"
+    }
+  },
+  "project": {
+    "units": "Residences",
+    "delivery": "Delivery",
+    "neighbourhood": "Neighbourhood",
+    "status": "Status",
+    "amenities": "Amenities",
+    "sustainability": "Sustainability",
+    "enquire": "Enquire"
+  }
+}
