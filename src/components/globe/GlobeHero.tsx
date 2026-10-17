@@ -1,7 +1,7 @@
 "use client";
 
 import dynamic from "next/dynamic";
-import { useLayoutEffect, useRef, useState } from "react";
+import { useLayoutEffect, useMemo, useRef, useState } from "react";
 import { gsap } from "gsap";
 import { ScrollTrigger } from "gsap/ScrollTrigger";
 import type { Locale } from "@/i18n/config";
@@ -27,6 +27,7 @@ export function GlobeHero({ locale, t, projects }: GlobeHeroProps) {
   const outro = useRef<HTMLDivElement>(null);
   const progress = useRef(0) as GlobeProgress;
   const [active, setActive] = useState<string | null>(null);
+  const pins = useMemo(() => projects.map(({ slug, name, lat, lon }) => ({ slug, name, lat, lon })), [projects]);
 
   useLayoutEffect(() => {
     const ctx = gsap.context(() => {
@@ -67,7 +68,7 @@ export function GlobeHero({ locale, t, projects }: GlobeHeroProps) {
       <div className="absolute inset-0">
         <GlobeScene
           progress={progress}
-          pins={projects.map(({ slug, name, lat, lon }) => ({ slug, name, lat, lon }))}
+          pins={pins}
           activeSlug={active}
           onSelect={setActive}
         />

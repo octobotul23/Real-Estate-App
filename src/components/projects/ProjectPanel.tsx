@@ -21,7 +21,9 @@ export function ProjectPanel({ locale, t, project, onClose }: ProjectPanelProps)
 
   useEffect(() => {
     if (!panel.current) return;
+    // GSAP reads the initial inline translateX as pixels in `x`; zero it and drive xPercent.
     gsap.to(panel.current, {
+      x: 0,
       xPercent: project ? 0 : 105,
       duration: project ? 0.9 : 0.6,
       ease: project ? "expo.out" : "expo.in",
@@ -48,7 +50,8 @@ export function ProjectPanel({ locale, t, project, onClose }: ProjectPanelProps)
       ref={panel}
       data-lenis-prevent
       aria-hidden={!project}
-      className="absolute inset-y-0 right-0 z-30 flex w-full max-w-md translate-x-[105%] flex-col overflow-y-auto bg-paper text-ink"
+      style={{ transform: "translateX(105%)" }}
+      className="absolute inset-y-0 right-0 z-30 flex w-full max-w-md flex-col overflow-y-auto bg-paper text-ink"
     >
       {project && (
         <>

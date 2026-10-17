@@ -107,3 +107,9 @@ body {
   opacity: 1;
   translate: 0 -50%;
 }
+
+/* Lift the hovered or active pin's positioned wrapper above its neighbours. */
+.globe-overlay div:has(> div > .globe-pin:hover),
+.globe-overlay div:has(> div > .globe-pin[data-active]) {
+  z-index: 100 !important;
+}

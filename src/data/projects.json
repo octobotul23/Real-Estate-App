@@ -1,0 +1,1078 @@
+[
+ {
+  "slug": "madrigalului-residence",
+  "name": "Madrigalului Residence",
+  "status": "delivered",
+  "neighbourhood": {
+   "en": "Primăverii / Herăstrău, Sector 1",
+   "ro": "Primăverii / Herăstrău, Sector 1"
+  },
+  "address": "Str. Madrigalului 42A, Sector 1, București 013747",
+  "lat": 44.4705,
+  "lon": 26.0885,
+  "deliveryYear": 2014,
+  "units": 14,
+  "buildings": null,
+  "unitTypes": {
+   "en": [],
+   "ro": []
+  },
+  "amenities": {
+   "en": [],
+   "ro": []
+  },
+  "sustainability": [],
+  "architect": null,
+  "summary": {
+   "en": "Small boutique residential building in the Primăverii/Herăstrău area, one of One United Properties' earliest projects. It has 14 apartments on about 4,000 sqm and was delivered in September 2014.",
+   "ro": "Clădire rezidențială boutique de mici dimensiuni în zona Primăverii/Herăstrău, unul dintre primele proiecte One United Properties. Are 14 apartamente pe aproximativ 4.000 mp și a fost livrată în septembrie 2014."
+  },
+  "images": [],
+  "website": null
+ },
+ {
+  "slug": "one-floreasca-lake",
+  "name": "One Floreasca Lake",
+  "status": "delivered",
+  "neighbourhood": {
+   "en": "Floreasca, Sector 1",
+   "ro": "Floreasca, Sector 1"
+  },
+  "address": null,
+  "lat": 44.469,
+  "lon": 26.099,
+  "deliveryYear": 2015,
+  "units": 68,
+  "buildings": null,
+  "unitTypes": {
+   "en": [
+    "apartments",
+    "penthouses"
+   ],
+   "ro": [
+    "apartamente",
+    "penthouse-uri"
+   ]
+  },
+  "amenities": {
+   "en": [],
+   "ro": []
+  },
+  "sustainability": [],
+  "architect": null,
+  "summary": {
+   "en": "Lakeside residential compound on Floreasca Lake, one of the developer's first flagship projects. It has 68 apartments, including penthouses with panoramic lake views, and was completed in 2015.",
+   "ro": "Ansamblu rezidențial pe malul lacului Floreasca, unul dintre primele proiecte reprezentative ale dezvoltatorului. Are 68 de apartamente, inclusiv penthouse-uri cu vedere panoramică spre lac, și a fost finalizat în 2015."
+  },
+  "images": [],
+  "website": null
+ },
+ {
+  "slug": "one-herastrau-park",
+  "name": "One Herăstrău Park",
+  "status": "delivered",
+  "neighbourhood": {
+   "en": "Herăstrău / Aviației, Sector 1",
+   "ro": "Herăstrău / Aviației, Sector 1"
+  },
+  "address": "Str. Nicolae G. Caranfil 12, Sector 1, București",
+  "lat": 44.472,
+  "lon": 26.0965,
+  "deliveryYear": 2017,
+  "units": 106,
+  "buildings": null,
+  "unitTypes": {
+   "en": [],
+   "ro": []
+  },
+  "amenities": {
+   "en": [],
+   "ro": []
+  },
+  "sustainability": [],
+  "architect": null,
+  "summary": {
+   "en": "High-end residential compound a short walk from King Michael I (Herăstrău) Park, part of One United's Herăstrău \"trilogy\" with One Herăstrău Plaza and One Herăstrău Towers. It has about 106 apartments on roughly 28,000 sqm built and won Residential Project of the Year at the SEE Real Estate Awards.",
+   "ro": "Ansamblu rezidențial de lux aflat la câțiva pași de Parcul Regele Mihai I (Herăstrău), parte din „trilogia” Herăstrău a One United, alături de One Herăstrău Plaza și One Herăstrău Towers. Are aproximativ 106 apartamente pe circa 28.000 mp construiți și a câștigat premiul Residential Project of the Year la SEE Real Estate Awards."
+  },
+  "images": [],
+  "website": null
+ },
+ {
+  "slug": "one-herastrau-plaza",
+  "name": "One Herăstrău Plaza",
+  "status": "delivered",
+  "neighbourhood": {
+   "en": "Herăstrău / Floreasca, Sector 1",
+   "ro": "Herăstrău / Floreasca, Sector 1"
+  },
+  "address": null,
+  "lat": 44.4755,
+  "lon": 26.096,
+  "deliveryYear": null,
+  "units": 156,
+  "buildings": "2 prismatic residential bars with a commercial gallery",
+  "unitTypes": {
+   "en": [],
+   "ro": []
+  },
+  "amenities": {
+   "en": [
+    "commercial gallery with convenience services"
+   ],
+   "ro": [
+    "galerie comercială cu servicii de proximitate"
+   ]
+  },
+  "sustainability": [],
+  "architect": "Marius Călin / X Architecture & Engineering",
+  "summary": {
+   "en": "High-end residential compound of two prismatic buildings with a ground-floor commercial gallery, within walking distance of Floreasca Lake, Herăstrău Park, Promenada Mall and Aurel Vlaicu metro. It has about 156 design apartments.",
+   "ro": "Ansamblu rezidențial de lux format din două corpuri prismatice, cu galerie comercială la parter, la distanță de mers pe jos de lacul Floreasca, parcul Herăstrău, Promenada Mall și metroul Aurel Vlaicu. Are aproximativ 156 de apartamente de design."
+  },
+  "images": [],
+  "website": null
+ },
+ {
+  "slug": "one-charles-de-gaulle",
+  "name": "One Charles de Gaulle",
+  "status": "delivered",
+  "neighbourhood": {
+   "en": "Primăverii, Sector 1",
+   "ro": "Primăverii, Sector 1"
+  },
+  "address": null,
+  "lat": 44.466,
+  "lon": 26.0855,
+  "deliveryYear": 2018,
+  "units": 33,
+  "buildings": "2 low-rise buildings",
+  "unitTypes": {
+   "en": [
+    "2–6 room apartments",
+    "triplex suites",
+    "penthouse"
+   ],
+   "ro": [
+    "apartamente de 2–6 camere",
+    "suite triplex",
+    "penthouse"
+   ]
+  },
+  "amenities": {
+   "en": [],
+   "ro": []
+  },
+  "sustainability": [
+   "Green Homes (RoGBC)"
+  ],
+  "architect": "X Architecture & Engineering Consult; façade by Edgar Bueso-Inchausti; interiors by Lemon Interior Design",
+  "summary": {
+   "en": "Ultra-luxury low-rise development in the Primăverii neighbourhood near Charles de Gaulle Square, two minutes from Herăstrău Park. It has 33 residences in two buildings (about 8,000 sqm built, 4,000 sqm living area), was completed in 2018 and holds RoGBC Green Homes certification.",
+   "ro": "Dezvoltare ultra-lux cu regim redus de înălțime în cartierul Primăverii, lângă Piața Charles de Gaulle, la două minute de parcul Herăstrău. Are 33 de locuințe în două clădiri (circa 8.000 mp construiți, 4.000 mp locuibili), a fost finalizată în 2018 și are certificare Green Homes (RoGBC)."
+  },
+  "images": [],
+  "website": null
+ },
+ {
+  "slug": "one-mircea-eliade",
+  "name": "One Mircea Eliade",
+  "status": "delivered",
+  "neighbourhood": {
+   "en": "Floreasca, Sector 1",
+   "ro": "Floreasca, Sector 1"
+  },
+  "address": "Bd. Mircea Eliade 16B, Sector 1, București (One Floreasca City; One Tower offices at Calea Floreasca 165)",
+  "lat": 44.46608,
+  "lon": 26.10016,
+  "deliveryYear": 2020,
+  "units": 244,
+  "buildings": "3 towers",
+  "unitTypes": {
+   "en": [
+    "design apartments",
+    "penthouses"
+   ],
+   "ro": [
+    "apartamente de design",
+    "penthouse-uri"
+   ]
+  },
+  "amenities": {
+   "en": [
+    "gym with pool",
+    "food hall and restaurants (One Floreasca City)",
+    "offices",
+    "playground",
+    "green spaces",
+    "3 underground parking levels",
+    "next to Floreasca Park"
+   ],
+   "ro": [
+    "sală de fitness cu piscină",
+    "food hall și restaurante (One Floreasca City)",
+    "birouri",
+    "loc de joacă",
+    "spații verzi",
+    "3 niveluri de parcare subterană",
+    "lângă Parcul Floreasca"
+   ]
+  },
+  "sustainability": [
+   "Green Homes (RoGBC)"
+  ],
+  "architect": null,
+  "summary": {
+   "en": "Residential part of the One Floreasca City mixed-use scheme on the former Automatica industrial site, next to Floreasca Park and the One Tower office building. It has three towers with about 244 apartments and was finalised in Q4 2020; two of its penthouses sold for a combined EUR 7.2 million.",
+   "ro": "Componenta rezidențială a proiectului mixt One Floreasca City, pe fosta platformă industrială Automatica, lângă Parcul Floreasca și clădirea de birouri One Tower. Are trei turnuri cu aproximativ 244 de apartamente și a fost finalizată în T4 2020; două dintre penthouse-uri s-au vândut împreună cu 7,2 milioane de euro."
+  },
+  "images": [],
+  "website": null
+ },
+ {
+  "slug": "one-herastrau-towers",
+  "name": "One Herăstrău Towers",
+  "status": "delivered",
+  "neighbourhood": {
+   "en": "Herăstrău, Sector 1",
+   "ro": "Herăstrău, Sector 1"
+  },
+  "address": "Str. Nicolae G. Caranfil 74A, Sector 1, București",
+  "lat": 44.4765,
+  "lon": 26.095,
+  "deliveryYear": 2022,
+  "units": 139,
+  "buildings": "2 residential towers",
+  "unitTypes": {
+   "en": [],
+   "ro": []
+  },
+  "amenities": {
+   "en": [
+    "~5,000 sqm commercial and office space on ground and 1st floors",
+    "2 underground parking levels",
+    "near Herăstrău Park"
+   ],
+   "ro": [
+    "circa 5.000 mp spații comerciale și birouri la parter și etajul 1",
+    "2 niveluri de parcare subterană",
+    "aproape de parcul Herăstrău"
+   ]
+  },
+  "sustainability": [
+   "Green Homes (RoGBC)"
+  ],
+  "architect": null,
+  "summary": {
+   "en": "Two residential towers a few steps from Herăstrău Park, built as an urban-regeneration project in two years. They hold 139 apartments (about 16,986 sqm) above 26 commercial and office units, with 33,007 sqm gross built area, and were handed over in January 2022 with RoGBC Green Homes certification.",
+   "ro": "Două turnuri rezidențiale la câțiva pași de parcul Herăstrău, construite în doi ani ca proiect de regenerare urbană. Au 139 de apartamente (circa 16.986 mp) deasupra a 26 de spații comerciale și de birouri, cu o suprafață construită desfășurată de 33.007 mp, și au fost predate în ianuarie 2022 cu certificare Green Homes (RoGBC)."
+  },
+  "images": [],
+  "website": null
+ },
+ {
+  "slug": "one-verdi-park",
+  "name": "One Verdi Park",
+  "status": "delivered",
+  "neighbourhood": {
+   "en": "Floreasca / Barbu Văcărescu, Sector 2",
+   "ro": "Floreasca / Barbu Văcărescu, Sector 2"
+  },
+  "address": "Bd. Barbu Văcărescu 164E, Sector 2, București",
+  "lat": 44.47554,
+  "lon": 26.10716,
+  "deliveryYear": 2023,
+  "units": 320,
+  "buildings": "2 towers (~75–77 m)",
+  "unitTypes": {
+   "en": [],
+   "ro": []
+  },
+  "amenities": {
+   "en": [
+    "~2,200 sqm ground-floor retail",
+    "3 underground parking levels (451 spaces)",
+    "opposite Verdi Park and Floreasca Lake"
+   ],
+   "ro": [
+    "circa 2.200 mp spații comerciale la parter",
+    "3 niveluri de parcare subterană (451 locuri)",
+    "vizavi de Parcul Verdi și lacul Floreasca"
+   ]
+  },
+  "sustainability": [],
+  "architect": null,
+  "summary": {
+   "en": "Mixed-use high-rise project on Barbu Văcărescu Boulevard opposite Verdi Park and Floreasca Lake. It was first permitted as one office tower and one residential tower and later became mostly residential, with about 300 luxury units. One United finalised it in Q1 2023 and delivered 320 units there that year.",
+   "ro": "Proiect mixt înalt pe bulevardul Barbu Văcărescu, vizavi de Parcul Verdi și lacul Floreasca. A fost autorizat inițial ca un turn de birouri și un turn rezidențial, apoi a devenit în mare parte rezidențial, cu aproximativ 300 de unități de lux. One United l-a finalizat în T1 2023 și a livrat acolo 320 de unități în acel an."
+  },
+  "images": [],
+  "website": null
+ },
+ {
+  "slug": "one-floreasca-vista",
+  "name": "One Floreasca Vista",
+  "status": "delivered",
+  "neighbourhood": {
+   "en": "Floreasca (lake shore), Sector 1",
+   "ro": "Floreasca (lake shore), Sector 1"
+  },
+  "address": null,
+  "lat": 44.468,
+  "lon": 26.1015,
+  "deliveryYear": 2023,
+  "units": 63,
+  "buildings": "1 boutique building",
+  "unitTypes": {
+   "en": [
+    "1–4 bedroom apartments",
+    "garden duplexes",
+    "penthouse duplexes"
+   ],
+   "ro": [
+    "apartamente cu 1–4 dormitoare",
+    "duplexuri cu grădină",
+    "duplexuri penthouse"
+   ]
+  },
+  "amenities": {
+   "en": [
+    "underground parking",
+    "panoramic Floreasca Lake views"
+   ],
+   "ro": [
+    "parcare subterană",
+    "vedere panoramică spre lacul Floreasca"
+   ]
+  },
+  "sustainability": [],
+  "architect": "X Architecture & Engineering",
+  "summary": {
+   "en": "Boutique lakefront building on the shore of Floreasca Lake, designed on two merged plots around a metro tunnel restriction. It has about 60 apartments, from one to four bedrooms plus garden and penthouse duplexes, and was completed in 2023.",
+   "ro": "Clădire boutique pe malul lacului Floreasca, proiectată pe două terenuri unificate, cu restricții impuse de traseul metroului. Are aproximativ 60 de apartamente, de la unul la patru dormitoare, plus duplexuri cu grădină și penthouse, și a fost finalizată în 2023."
+  },
+  "images": [],
+  "website": null
+ },
+ {
+  "slug": "one-timpuri-noi",
+  "name": "One Timpuri Noi",
+  "status": "delivered",
+  "neighbourhood": {
+   "en": "Timpuri Noi, Sector 3",
+   "ro": "Timpuri Noi, Sector 3"
+  },
+  "address": null,
+  "lat": 44.411,
+  "lon": 26.121,
+  "deliveryYear": 2023,
+  "units": 147,
+  "buildings": null,
+  "unitTypes": {
+   "en": [
+    "2-room",
+    "3-room",
+    "4-room apartments"
+   ],
+   "ro": [
+    "apartamente cu 2, 3 și 4 camere"
+   ]
+  },
+  "amenities": {
+   "en": [
+    "ground-floor retail",
+    "underground and outdoor parking"
+   ],
+   "ro": [
+    "spații comerciale la parter",
+    "parcare subterană și exterioară"
+   ]
+  },
+  "sustainability": [],
+  "architect": null,
+  "summary": {
+   "en": "Mid-size residential building in the Timpuri Noi area of Sector 3, launched under the Neo brand for smaller projects. It was first planned with 108 apartments over eight floors on a 3,835 sqm plot and finished in 2023 with 147 units.",
+   "ro": "Clădire rezidențială de dimensiuni medii în zona Timpuri Noi din Sectorul 3, lansată sub brandul Neo, dedicat proiectelor mai mici. A fost planificată inițial cu 108 apartamente pe opt etaje, pe un teren de 3.835 mp, și a fost finalizată în 2023 cu 147 de unități."
+  },
+  "images": [],
+  "website": null
+ },
+ {
+  "slug": "one-cotroceni-park",
+  "name": "One Cotroceni Park",
+  "status": "delivered",
+  "neighbourhood": {
+   "en": "Cotroceni / Progresului, Sector 5",
+   "ro": "Cotroceni / Progresului, Sector 5"
+  },
+  "address": "Șoseaua Progresului, Sector 5, București (former Ventilatorul factory site)",
+  "lat": 44.41926,
+  "lon": 26.07387,
+  "deliveryYear": 2023,
+  "units": 898,
+  "buildings": "8 residential buildings + 2 office buildings",
+  "unitTypes": {
+   "en": [
+    "studios to 3-bedroom apartments",
+    "garden apartments",
+    "penthouses"
+   ],
+   "ro": [
+    "garsoniere până la apartamente cu 3 dormitoare",
+    "apartamente cu grădină",
+    "penthouse-uri"
+   ]
+  },
+  "amenities": {
+   "en": [
+    "ground-floor retail",
+    "small offices on 1st floor",
+    "3 underground parking levels",
+    "on-site office campus (~81,000 sqm GLA)"
+   ],
+   "ro": [
+    "spații comerciale la parter",
+    "birouri mici la etajul 1",
+    "3 niveluri de parcare subterană",
+    "campus de birouri în ansamblu (circa 81.000 mp GLA)"
+   ]
+  },
+  "sustainability": [],
+  "architect": null,
+  "summary": {
+   "en": "Large mixed-use regeneration of the former Ventilatorul factory near the Military Academy, the Botanical Garden and Cotroceni Palace, aimed at the accessible-premium segment. Its eight residential buildings hold about 900 apartments next to the One Cotroceni Park office campus, and 898 units were finalised in 2023.",
+   "ro": "Regenerare mixtă de mari dimensiuni a fostei fabrici Ventilatorul, lângă Academia Militară, Grădina Botanică și Palatul Cotroceni, pentru segmentul premium accesibil. Cele opt clădiri rezidențiale au aproximativ 900 de apartamente lângă campusul de birouri One Cotroceni Park, iar 898 de unități au fost finalizate în 2023."
+  },
+  "images": [],
+  "website": null
+ },
+ {
+  "slug": "one-north-lofts",
+  "name": "One North Lofts",
+  "status": "delivered",
+  "neighbourhood": {
+   "en": "Pipera (One North Gate), northern Bucharest",
+   "ro": "Pipera (One North Gate), northern Bucharest"
+  },
+  "address": "Bd. Pipera (One North Gate complex) – likely administratively in Voluntari, Ilfov",
+  "lat": 44.49471,
+  "lon": 26.12936,
+  "deliveryYear": 2025,
+  "units": 151,
+  "buildings": "1 converted office building",
+  "unitTypes": {
+   "en": [
+    "studios",
+    "1–3 bedroom lofts"
+   ],
+   "ro": [
+    "garsoniere",
+    "lofturi cu 1–3 dormitoare"
+   ]
+  },
+  "amenities": {
+   "en": [],
+   "ro": []
+  },
+  "sustainability": [],
+  "architect": null,
+  "summary": {
+   "en": "Romania's first office building converted to apartments: one building of the One North Gate office complex on Pipera Boulevard, refitted as residential lofts. The six-floor building was planned with 137 units from studios to three-bedroom and was finished in Q4 2025 with 151 units.",
+   "ro": "Prima clădire de birouri din România transformată în locuințe: o clădire din complexul de birouri One North Gate de pe bulevardul Pipera, reamenajată ca lofturi rezidențiale. Clădirea cu șase etaje a fost planificată cu 137 de unități, de la garsoniere la apartamente cu trei dormitoare, și a fost finalizată în T4 2025 cu 151 de unități."
+  },
+  "images": [],
+  "website": null
+ },
+ {
+  "slug": "one-lake-club",
+  "name": "One Lake Club",
+  "status": "delivered",
+  "neighbourhood": {
+   "en": "Floreasca / Fabrica de Glucoză (Lake Tei shore), Sector 2",
+   "ro": "Floreasca / Fabrica de Glucoză (Lake Tei shore), Sector 2"
+  },
+  "address": "Aleea Chefalului 11-13, Sector 2, București 020333",
+  "lat": 44.479,
+  "lon": 26.124,
+  "deliveryYear": 2025,
+  "units": 723,
+  "buildings": "7 towers (Phase I: 5 towers, Phase II: 2 buildings)",
+  "unitTypes": {
+   "en": [
+    "studios",
+    "1–3 bedroom apartments",
+    "penthouses"
+   ],
+   "ro": [
+    "garsoniere",
+    "apartamente cu 1–3 dormitoare",
+    "penthouse-uri"
+   ]
+  },
+  "amenities": {
+   "en": [
+    "swimming pool",
+    "spa",
+    "gym",
+    "brasserie",
+    "shopping areas",
+    "7,200 sqm park with playgrounds",
+    "lakefront",
+    "~853 parking spaces"
+   ],
+   "ro": [
+    "piscină",
+    "spa",
+    "sală de fitness",
+    "brasserie",
+    "zone comerciale",
+    "parc de 7.200 mp cu locuri de joacă",
+    "pe malul lacului",
+    "circa 853 locuri de parcare"
+   ]
+  },
+  "sustainability": [
+   "Green Homes (RoGBC) – stated intention for all delivered apartments"
+  ],
+  "architect": null,
+  "summary": {
+   "en": "Lakeside residential club with towers right on the shore of the lake, near Fabrica de Glucoză and Barbu Văcărescu. It has about 723 apartments in seven towers, with a pool, spa, gym and a 7,200 sqm park, and a GDV of about EUR 215–219 million. Phase II (138 units) was completed in 2025 and Phase I is being finalised.",
+   "ro": "Club rezidențial cu turnuri chiar pe malul lacului, lângă Fabrica de Glucoză și Barbu Văcărescu. Are aproximativ 723 de apartamente în șapte turnuri, cu piscină, spa, sală de fitness și un parc de 7.200 mp, iar valoarea brută de dezvoltare este de circa 215–219 milioane de euro. Faza a II-a (138 de unități) a fost finalizată în 2025, iar Faza I este în curs de finalizare."
+  },
+  "images": [],
+  "website": null
+ },
+ {
+  "slug": "one-floreasca-towers",
+  "name": "One Floreasca Towers",
+  "status": "construction",
+  "neighbourhood": {
+   "en": "Floreasca / Promenada business district, Sector 2",
+   "ro": "Floreasca / Promenada business district, Sector 2"
+  },
+  "address": "Str. Gara Herăstrău 2A, Sector 2, București",
+  "lat": 44.47939,
+  "lon": 26.10434,
+  "deliveryYear": 2026,
+  "units": 208,
+  "buildings": "2 towers",
+  "unitTypes": {
+   "en": [
+    "studios (from ~50 sqm)",
+    "1–3 bedroom apartments (3-bed 130–269 sqm)"
+   ],
+   "ro": [
+    "garsoniere (de la circa 50 mp)",
+    "apartamente cu 1–3 dormitoare (3 dormitoare: 130–269 mp)"
+   ]
+  },
+  "amenities": {
+   "en": [
+    "4 ground-floor commercial spaces",
+    "254 parking spaces",
+    "opposite Promenada Mall, next to One Gallery"
+   ],
+   "ro": [
+    "4 spații comerciale la parter",
+    "254 locuri de parcare",
+    "vizavi de Promenada Mall, lângă One Gallery"
+   ]
+  },
+  "sustainability": [],
+  "architect": null,
+  "summary": {
+   "en": "Two 14-storey residential towers on Gara Herăstrău Street, opposite Promenada Mall and next to the One Gallery conversion of the former Ford factory. The project has 208 apartments, four commercial spaces and 254 parking places, with a GDV of EUR 61.8 million. Unit handovers began in 2026.",
+   "ro": "Două turnuri rezidențiale de câte 14 etaje pe strada Gara Herăstrău, vizavi de Promenada Mall și lângă One Gallery, reconversia fostei fabrici Ford. Proiectul are 208 apartamente, patru spații comerciale și 254 de locuri de parcare, cu o valoare brută de dezvoltare de 61,8 milioane de euro. Predarea unităților a început în 2026."
+  },
+  "images": [],
+  "website": null
+ },
+ {
+  "slug": "one-high-district",
+  "name": "One High District",
+  "status": "construction",
+  "neighbourhood": {
+   "en": "Floreasca – Barbu Văcărescu / Fabrica de Glucoză, Sector 2",
+   "ro": "Floreasca – Barbu Văcărescu / Fabrica de Glucoză, Sector 2"
+  },
+  "address": "Str. Ionel Teodoreanu 1-7 (also given as Șos. Fabrica de Glucoză 14), Sector 2, București 020331",
+  "lat": 44.4782,
+  "lon": 26.11953,
+  "deliveryYear": 2026,
+  "units": 786,
+  "buildings": "3 towers",
+  "unitTypes": {
+   "en": [
+    "studios",
+    "1-bedroom",
+    "2-bedroom",
+    "3-bedroom",
+    "duplex penthouses"
+   ],
+   "ro": [
+    "garsoniere",
+    "apartamente cu 1, 2 și 3 dormitoare",
+    "penthouse-uri duplex"
+   ]
+  },
+  "amenities": {
+   "en": [
+    "28 commercial spaces",
+    "1,134 parking spaces",
+    "over 30% green areas"
+   ],
+   "ro": [
+    "28 de spații comerciale",
+    "1.134 locuri de parcare",
+    "peste 30% spații verzi"
+   ]
+  },
+  "sustainability": [
+   "Geothermal heat pumps"
+  ],
+  "architect": null,
+  "summary": {
+   "en": "Three high-rise towers on a 25,000 sqm plot in the Floreasca–Barbu Văcărescu area, among the first Romanian residential schemes heated and cooled by geothermal heat pumps. It has 786 apartments from studios to duplex penthouses, 28 commercial spaces and 1,134 parking places, with a GDV of EUR 154.2 million. Handovers began in 2026.",
+   "ro": "Trei turnuri înalte pe un teren de 25.000 mp în zona Floreasca–Barbu Văcărescu, printre primele ansambluri rezidențiale din România încălzite și răcite cu pompe de căldură geotermale. Are 786 de apartamente, de la garsoniere la penthouse-uri duplex, 28 de spații comerciale și 1.134 de locuri de parcare, cu o valoare brută de dezvoltare de 154,2 milioane de euro. Predările au început în 2026."
+  },
+  "images": [],
+  "website": null
+ },
+ {
+  "slug": "one-herastrau-vista",
+  "name": "One Herăstrău Vista",
+  "status": "construction",
+  "neighbourhood": {
+   "en": "Herăstrău / Băneasa, Sector 1",
+   "ro": "Herăstrău / Băneasa, Sector 1"
+  },
+  "address": "Str. Grigore Gafencu 65, Sector 1, București",
+  "lat": 44.488,
+  "lon": 26.087,
+  "deliveryYear": 2026,
+  "units": 117,
+  "buildings": "1 building",
+  "unitTypes": {
+   "en": [],
+   "ro": []
+  },
+  "amenities": {
+   "en": [],
+   "ro": []
+  },
+  "sustainability": [],
+  "architect": null,
+  "summary": {
+   "en": "Boutique 11-storey residential building on Grigore Gafencu Street, close to King Michael I (Herăstrău) Park and Băneasa. It has 117 apartments with a GDV of EUR 38.1 million, sold almost 60% in its first three months, and is due for completion in 2026.",
+   "ro": "Clădire rezidențială boutique cu 11 etaje pe strada Grigore Gafencu, aproape de Parcul Regele Mihai I (Herăstrău) și de Băneasa. Are 117 apartamente, cu o valoare brută de dezvoltare de 38,1 milioane de euro, s-a vândut în proporție de aproape 60% în primele trei luni și urmează să fie finalizată în 2026."
+  },
+  "images": [],
+  "website": null
+ },
+ {
+  "slug": "one-lake-district",
+  "name": "One Lake District",
+  "status": "construction",
+  "neighbourhood": {
+   "en": "Plumbuita Lake / Colentina, Sector 2",
+   "ro": "Plumbuita Lake / Colentina, Sector 2"
+  },
+  "address": "Str. Gherghiței, Sector 2, București (shore of Plumbuita Lake)",
+  "lat": 44.46889,
+  "lon": 26.1431,
+  "deliveryYear": 2026,
+  "units": 2076,
+  "buildings": "9 residential towers + 3-floor pre-school/admin building + 4-floor parking building",
+  "unitTypes": {
+   "en": [
+    "studios",
+    "1–3 bedroom apartments",
+    "top-floor duplexes"
+   ],
+   "ro": [
+    "garsoniere",
+    "apartamente cu 1–3 dormitoare",
+    "duplexuri la ultimul etaj"
+   ]
+  },
+  "amenities": {
+   "en": [
+    "pre-school / kindergarten",
+    "parking building (2,614 spaces)",
+    "lakefront on Plumbuita",
+    "green areas"
+   ],
+   "ro": [
+    "grădiniță",
+    "clădire de parcare (2.614 locuri)",
+    "pe malul lacului Plumbuita",
+    "spații verzi"
+   ]
+  },
+  "sustainability": [],
+  "architect": null,
+  "summary": {
+   "en": "One United's largest residential development: an accessible-premium neighbourhood on about 8 hectares on the shore of Plumbuita Lake. Nine 11-storey towers will hold about 2,076 apartments, with a pre-school and a parking building, and a GDV of EUR 337.7 million. Phase 1 is due in 2026, with later phases to follow.",
+   "ro": "Cea mai mare dezvoltare rezidențială a One United: un cartier premium accesibil pe aproximativ 8 hectare, pe malul lacului Plumbuita. Nouă turnuri de câte 11 etaje vor avea aproximativ 2.076 de apartamente, cu grădiniță și o clădire de parcare, iar valoarea brută de dezvoltare este de 337,7 milioane de euro. Faza 1 este programată pentru 2026, iar fazele următoare vor urma."
+  },
+  "images": [],
+  "website": null
+ },
+ {
+  "slug": "one-peninsula",
+  "name": "One Peninsula",
+  "status": "construction",
+  "neighbourhood": {
+   "en": "Floreasca (lake peninsula), Sector 1",
+   "ro": "Floreasca (lake peninsula), Sector 1"
+  },
+  "address": "Str. Navigatorilor 25 (also given as 15), Sector 1, București",
+  "lat": 44.47,
+  "lon": 26.0975,
+  "deliveryYear": 2026,
+  "units": 167,
+  "buildings": "apartment buildings + 8 villas",
+  "unitTypes": {
+   "en": [
+    "1-bedroom (~77 sqm)",
+    "2-bedroom (102–146 sqm)",
+    "3-bedroom (154–176 sqm)",
+    "penthouses/duplexes (~229 sqm)",
+    "villas"
+   ],
+   "ro": [
+    "apartamente cu 1 dormitor (circa 77 mp)",
+    "cu 2 dormitoare (102–146 mp)",
+    "cu 3 dormitoare (154–176 mp)",
+    "penthouse-uri/duplexuri (circa 229 mp)",
+    "vile"
+   ]
+  },
+  "amenities": {
+   "en": [
+    "semi-Olympic swimming pool",
+    "fitness room",
+    "relaxation area",
+    "underground parking",
+    "almost surrounded by Floreasca Lake"
+   ],
+   "ro": [
+    "piscină semiolimpică",
+    "sală de fitness",
+    "zonă de relaxare",
+    "parcare subterană",
+    "aproape înconjurat de lacul Floreasca"
+   ]
+  },
+  "sustainability": [
+   "Geothermal heat pumps (270 wells × 120 m, ~EUR 4m)",
+   "Green Homes (listed on green-homes.org)"
+  ],
+  "architect": "X Architecture & Engineering (RO) with Bobotis + Bobotis Architects (GR)",
+  "summary": {
+   "en": "Luxury residential club on a 25,839 sqm peninsula almost surrounded by Floreasca Lake, billed as Bucharest's first residential club fully heated and cooled by a geothermal heat-pump system. It has about 167 homes, apartments plus villas, around a semi-Olympic pool. Completion is scheduled for 2026.",
+   "ro": "Club rezidențial de lux pe o peninsulă de 25.839 mp aproape înconjurată de lacul Floreasca, prezentat drept primul club rezidențial din București încălzit și răcit integral de un sistem geotermal cu pompe de căldură. Are aproximativ 167 de locuințe, apartamente și vile, în jurul unei piscine semiolimpice. Finalizarea este programată pentru 2026."
+  },
+  "images": [],
+  "website": null
+ },
+ {
+  "slug": "one-academy-club",
+  "name": "One Academy Club",
+  "status": "construction",
+  "neighbourhood": {
+   "en": "Lacul Tei / Fabrica de Glucoză, Sector 2",
+   "ro": "Lacul Tei / Fabrica de Glucoză, Sector 2"
+  },
+  "address": "Str. Radu Tudoran, Sector 2, București",
+  "lat": 44.4785,
+  "lon": 26.1175,
+  "deliveryYear": 2027,
+  "units": 156,
+  "buildings": null,
+  "unitTypes": {
+   "en": [],
+   "ro": []
+  },
+  "amenities": {
+   "en": [
+    "school on site",
+    "6 commercial spaces",
+    "254 underground parking spaces"
+   ],
+   "ro": [
+    "școală în ansamblu",
+    "6 spații comerciale",
+    "254 locuri de parcare subterane"
+   ]
+  },
+  "sustainability": [],
+  "architect": null,
+  "summary": {
+   "en": "Mixed-use residential development on a 1.4 ha plot near Lake Tei, on Radu Tudoran Street parallel to Fabrica de Glucoză, next to One High District and One Lake Club. It has about 150 apartments, six commercial spaces and a school, with a GDV of EUR 50 million and completion planned for Q4 2027.",
+   "ro": "Dezvoltare mixtă pe un teren de 1,4 ha lângă lacul Tei, pe strada Radu Tudoran, paralelă cu Fabrica de Glucoză, lângă One High District și One Lake Club. Are aproximativ 150 de apartamente, șase spații comerciale și o școală, cu o valoare brută de dezvoltare de 50 de milioane de euro și finalizare planificată în T4 2027."
+  },
+  "images": [],
+  "website": null
+ },
+ {
+  "slug": "one-floreasca-sunset",
+  "name": "One Floreasca Sunset",
+  "status": "construction",
+  "neighbourhood": {
+   "en": "Floreasca – Barbu Văcărescu (between Floreasca and Tei lakes), Sector 2",
+   "ro": "Floreasca – Barbu Văcărescu (between Floreasca and Tei lakes), Sector 2"
+  },
+  "address": "Str. Barbu Văcărescu 241-273, Sector 2, București",
+  "lat": 44.47735,
+  "lon": 26.10611,
+  "deliveryYear": 2028,
+  "units": 221,
+  "buildings": "2 buildings",
+  "unitTypes": {
+   "en": [
+    "studios",
+    "2-, 3- and 4-room apartments",
+    "penthouses"
+   ],
+   "ro": [
+    "garsoniere",
+    "apartamente cu 2, 3 și 4 camere",
+    "penthouse-uri"
+   ]
+  },
+  "amenities": {
+   "en": [
+    "at least 30% green space",
+    "sports area for residents",
+    "mixed-use ground floor",
+    "views over two lakes"
+   ],
+   "ro": [
+    "cel puțin 30% spații verzi",
+    "zonă de sport pentru rezidenți",
+    "funcțiuni mixte la parter",
+    "vedere spre două lacuri"
+   ]
+  },
+  "sustainability": [],
+  "architect": null,
+  "summary": {
+   "en": "Two 14-storey residential buildings on a 9,045 sqm plot on Barbu Văcărescu Street, between Floreasca and Tei lakes. It has 221 homes from studios to four-room apartments and penthouses, with a GDV of EUR 135 million. It was the developer's best-selling project in H1 2026, and completion is planned for 2028.",
+   "ro": "Două clădiri rezidențiale de câte 14 etaje pe un teren de 9.045 mp pe strada Barbu Văcărescu, între lacurile Floreasca și Tei. Are 221 de locuințe, de la garsoniere la apartamente cu patru camere și penthouse-uri, cu o valoare brută de dezvoltare de 135 de milioane de euro. A fost cel mai vândut proiect al dezvoltatorului în S1 2026, iar finalizarea este planificată pentru 2028."
+  },
+  "images": [],
+  "website": null
+ },
+ {
+  "slug": "one-floreasca-club",
+  "name": "One Floreasca Club",
+  "status": "launching",
+  "neighbourhood": {
+   "en": "Floreasca / Tei (near Verdi Park), Sector 2",
+   "ro": "Floreasca / Tei (near Verdi Park), Sector 2"
+  },
+  "address": "Str. Ramuri Tei 3, Sector 2, București",
+  "lat": 44.4695,
+  "lon": 26.1145,
+  "deliveryYear": null,
+  "units": 211,
+  "buildings": "3 low-rise buildings",
+  "unitTypes": {
+   "en": [
+    "2-room (61–81 sqm)",
+    "3- and 4-room apartments",
+    "penthouses",
+    "garden apartments"
+   ],
+   "ro": [
+    "apartamente cu 2 camere (61–81 mp)",
+    "apartamente cu 3 și 4 camere",
+    "penthouse-uri",
+    "apartamente cu grădină"
+   ]
+  },
+  "amenities": {
+   "en": [
+    "commercial area for residents",
+    "private gardens",
+    "large terraces on 1st and 5th floors",
+    "underground and outdoor parking",
+    "gym, pool and golf room (2022 plan)"
+   ],
+   "ro": [
+    "zonă comercială pentru rezidenți",
+    "grădini private",
+    "terase generoase la etajele 1 și 5",
+    "parcare subterană și exterioară",
+    "sală de fitness, piscină și golf room (plan 2022)"
+   ]
+  },
+  "sustainability": [],
+  "architect": null,
+  "summary": {
+   "en": "Boutique low-rise compound of three five-to-six-storey buildings on Ramuri Tei Street, between Floreasca Park and Verdi Park. It has 211 apartments with private gardens and large terraces on a 10,710 sqm plot (about 37,000 sqm built). It was first announced in 2022 as One City Club with about 200 units.",
+   "ro": "Ansamblu boutique cu regim redus de înălțime, format din trei clădiri de cinci-șase etaje pe strada Ramuri Tei, între Parcul Floreasca și Parcul Verdi. Are 211 apartamente cu grădini private și terase generoase pe un teren de 10.710 mp (circa 37.000 mp construiți). A fost anunțat în 2022 ca One City Club, cu aproximativ 200 de unități."
+  },
+  "images": [],
+  "website": null
+ },
+ {
+  "slug": "one-cotroceni-towers",
+  "name": "One Cotroceni Towers",
+  "status": "launching",
+  "neighbourhood": {
+   "en": "Cotroceni / Progresului, Sector 5",
+   "ro": "Cotroceni / Progresului, Sector 5"
+  },
+  "address": "Șoseaua Progresului 56-80, Sector 5, București",
+  "lat": 44.41749,
+  "lon": 26.07609,
+  "deliveryYear": null,
+  "units": 1296,
+  "buildings": "5 towers",
+  "unitTypes": {
+   "en": [
+    "2-, 3- and 4-bedroom apartments",
+    "penthouses on top residential floor"
+   ],
+   "ro": [
+    "apartamente cu 2, 3 și 4 dormitoare",
+    "penthouse-uri la ultimul etaj rezidențial"
+   ]
+  },
+  "amenities": {
+   "en": [],
+   "ro": []
+  },
+  "sustainability": [],
+  "architect": null,
+  "summary": {
+   "en": "Planned mixed-use scheme of five residential towers on a roughly 4.5 ha plot on Șoseaua Progresului, next to One Cotroceni Park. Its two 33-storey towers would be the tallest residential buildings in Bucharest. It plans 1,296 units with a GDV of around EUR 400 million and was listed for launch in 2026.",
+   "ro": "Proiect mixt planificat, cu cinci turnuri rezidențiale pe un teren de circa 4,5 ha pe Șoseaua Progresului, lângă One Cotroceni Park. Cele două turnuri de 33 de etaje ar fi cele mai înalte clădiri rezidențiale din București. Sunt planificate 1.296 de unități, cu o valoare brută de dezvoltare de aproximativ 400 de milioane de euro, iar lansarea era anunțată pentru 2026."
+  },
+  "images": [],
+  "website": null
+ },
+ {
+  "slug": "one-herastrau-city",
+  "name": "One Herăstrău City",
+  "status": "launching",
+  "neighbourhood": {
+   "en": "Casa Presei / Herăstrău, Sector 1",
+   "ro": "Casa Presei / Herăstrău, Sector 1"
+  },
+  "address": "Bd. Poligrafiei 50 și 52-54, Sector 1, București",
+  "lat": 44.48,
+  "lon": 26.07,
+  "deliveryYear": null,
+  "units": 900,
+  "buildings": "7 high-rise towers",
+  "unitTypes": {
+   "en": [],
+   "ro": []
+  },
+  "amenities": {
+   "en": [
+    "spa with gym",
+    "semi-Olympic pool",
+    "restaurants and cafés",
+    "small shops"
+   ],
+   "ro": [
+    "spa cu sală de fitness",
+    "piscină semiolimpică",
+    "restaurante și cafenele",
+    "magazine mici"
+   ]
+  },
+  "sustainability": [],
+  "architect": null,
+  "summary": {
+   "en": "Planned large residential development on a 36,869 sqm former industrial plot on Poligrafiei Boulevard, behind Casa Presei Libere and near Herăstrău Park. It foresees about 900 apartments in seven high-rise towers, up to 150,000 sqm above ground, with a spa and semi-Olympic pool. The land was bought for about EUR 60 million in 2022.",
+   "ro": "Dezvoltare rezidențială amplă planificată pe un fost teren industrial de 36.869 mp pe bulevardul Poligrafiei, în spatele Casei Presei Libere și aproape de parcul Herăstrău. Sunt prevăzute aproximativ 900 de apartamente în șapte turnuri înalte, până la 150.000 mp supraterani, cu spa și piscină semiolimpică. Terenul a fost cumpărat în 2022 cu aproximativ 60 de milioane de euro."
+  },
+  "images": [],
+  "website": null
+ },
+ {
+  "slug": "one-city-district",
+  "name": "One City District",
+  "status": "launching",
+  "neighbourhood": {
+   "en": "Former ROCAR site, between Ferentari and Eroii Revoluției, Sector 5",
+   "ro": "Former ROCAR site, between Ferentari and Eroii Revoluției, Sector 5"
+  },
+  "address": "Former ROCAR bus-factory platform, Sector 5, București",
+  "lat": 44.406,
+  "lon": 26.086,
+  "deliveryYear": null,
+  "units": 3000,
+  "buildings": null,
+  "unitTypes": {
+   "en": [],
+   "ro": []
+  },
+  "amenities": {
+   "en": [
+    "central park and green spaces",
+    "educational units",
+    "fitness centre with pool",
+    "markets and retail",
+    "bike lanes"
+   ],
+   "ro": [
+    "parc central și spații verzi",
+    "unități de învățământ",
+    "centru de fitness cu piscină",
+    "piețe și spații comerciale",
+    "piste de biciclete"
+   ]
+  },
+  "sustainability": [],
+  "architect": null,
+  "summary": {
+   "en": "Master-planned, self-sustaining new neighbourhood on the 21-hectare former ROCAR bus-factory site in Sector 5, bought for EUR 21 million in 2025. It is aimed at the accessible-premium segment and plans about 3,000 homes with parks, schools, sports facilities and retail, with a first phase expected around 2028.",
+   "ro": "Cartier nou, planificat unitar și autosustenabil, pe platforma de 21 de hectare a fostei fabrici de autobuze ROCAR din Sectorul 5, cumpărată în 2025 cu 21 de milioane de euro. Se adresează segmentului premium accesibil și prevede aproximativ 3.000 de locuințe, cu parcuri, școli, facilități sportive și spații comerciale, iar prima fază este așteptată în jurul anului 2028."
+  },
+  "images": [],
+  "website": null
+ },
+ {
+  "slug": "barbu-vacarescu-110-tower",
+  "name": "Barbu Văcărescu 110-112 Tower (name TBA)",
+  "status": "launching",
+  "neighbourhood": {
+   "en": "Floreasca – Barbu Văcărescu, Sector 2",
+   "ro": "Floreasca – Barbu Văcărescu, Sector 2"
+  },
+  "address": "Str. Barbu Văcărescu 110-112, Sector 2, București",
+  "lat": 44.465,
+  "lon": 26.113,
+  "deliveryYear": null,
+  "units": null,
+  "buildings": "1 tower (>100 m)",
+  "unitTypes": {
+   "en": [],
+   "ro": []
+  },
+  "amenities": {
+   "en": [
+    "retail and office space on lower levels",
+    "~2,000 sqm publicly accessible green space"
+   ],
+   "ro": [
+    "spații comerciale și birouri la nivelurile inferioare",
+    "circa 2.000 mp spațiu verde accesibil publicului"
+   ]
+  },
+  "sustainability": [],
+  "architect": null,
+  "summary": {
+   "en": "Residential-led mixed-use tower planned on a 5,755 sqm plot at Barbu Văcărescu 110-112, bought for EUR 10 million in October 2026. The preliminary concept is a 25-storey tower over 100 m tall (about 25,900 sqm above ground) with retail and offices on the lower floors, a GDV of about EUR 130 million, and a design chosen through an international competition.",
+   "ro": "Turn mixt cu funcțiune predominant rezidențială, planificat pe un teren de 5.755 mp la Barbu Văcărescu 110-112, cumpărat în octombrie 2026 cu 10 milioane de euro. Conceptul preliminar este un turn de 25 de etaje, înalt de peste 100 m (circa 25.900 mp supraterani), cu spații comerciale și birouri la nivelurile inferioare, o valoare brută de dezvoltare de aproximativ 130 de milioane de euro și un proiect ales prin concurs internațional de arhitectură."
+  },
+  "images": [],
+  "website": null
+ }
+]

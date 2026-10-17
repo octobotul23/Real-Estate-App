@@ -35,6 +35,12 @@
     "status": "Stadiu",
     "amenities": "Facilități",
     "sustainability": "Sustenabilitate",
-    "enquire": "Solicită detalii"
+    "enquire": "Solicită detalii",
+    "buildings": "Clădiri",
+    "architect": "Arhitect",
+    "residences": "Tipuri de locuințe",
+    "back": "Toate proiectele",
+    "listTitle": "Toate adresele One United din București",
+    "listIntro": "De la repere finalizate la cartierele care prind contur acum."
   }
 }

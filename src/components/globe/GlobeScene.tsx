@@ -14,7 +14,7 @@ const EARTH_KM = 6371;
 /** Camera height above the surface, in Earth radii, at the end of each stage. */
 const ALT_SPACE = 3.6;
 const ALT_REGION = 1.2;
-const ALT_CITY = 0.0065;
+const ALT_CITY = 0.005;
 
 const dotVertex = /* glsl */ `
   uniform float uSize;
@@ -134,6 +134,13 @@ function Globe({ progress, pins, activeSlug, onSelect, overlay }: GlobeProps) {
   const dots = useMemo(() => landDotPositions(), []);
   const target = useMemo(() => rotationToFace(BUCHAREST), []);
   const frame = useMemo(() => tangentFrame(BUCHAREST), []);
+  // Centre of the pins' bounding box, in Earth radii east/north of the city centre.
+  const focus = useMemo(() => {
+    if (!pins.length) return [0, 0];
+    const km = pins.map((p) => localKm(p, BUCHAREST));
+    const mid = (i: 0 | 1) => (Math.min(...km.map((k) => k[i])) + Math.max(...km.map((k) => k[i]))) / 2;
+    return [mid(0) / EARTH_KM, mid(1) / EARTH_KM];
+  }, [pins]);
   const colors = useMemo(
     () => ({
       dot: cssColor("--globe-dot", "#f4f1ec"),
@@ -176,8 +183,10 @@ function Globe({ progress, pins, activeSlug, onSelect, overlay }: GlobeProps) {
       tilt.current.rotation.x = lerp(0.25, target.x, turn);
     }
 
+    const city = 1 - smoothstep(alt, 0.012, 0.03);
+    const pan = smoothstep(alt, ALT_CITY, 0.05);
     const cam = camera as THREE.PerspectiveCamera;
-    cam.position.set(0, 0, 1 + alt);
+    cam.position.set(lerp(focus[0], 0, pan), lerp(focus[1], 0, pan), 1 + alt);
     cam.near = Math.max(alt * 0.05, 1e-5);
     cam.far = alt + 4;
     cam.updateProjectionMatrix();
@@ -186,7 +195,6 @@ function Globe({ progress, pins, activeSlug, onSelect, overlay }: GlobeProps) {
     atmosphereUniforms.uOpacity.value = smoothstep(alt, 0.3, 0.9);
     streetMaterial.uniforms.uOpacity.value = 0.32 * (1 - smoothstep(alt, 0.02, 0.15));
 
-    const city = 1 - smoothstep(alt, 0.012, 0.03);
     overlay.current?.style.setProperty("--pins", String(city));
     overlay.current?.toggleAttribute("data-city", city > 0.5);
 

@@ -35,6 +35,12 @@
     "status": "Status",
     "amenities": "Amenities",
     "sustainability": "Sustainability",
-    "enquire": "Enquire"
+    "enquire": "Enquire",
+    "buildings": "Buildings",
+    "architect": "Architect",
+    "residences": "Residence types",
+    "back": "All projects",
+    "listTitle": "Every One United address in Bucharest",
+    "listIntro": "From completed landmarks to the neighbourhoods taking shape now."
   }
 }
